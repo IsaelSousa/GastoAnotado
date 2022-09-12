@@ -1,0 +1,6 @@
+[submodule "GastoAnotado-back"]
+	path = GastoAnotado-back
+	url = https://github.com/IsaelSousa/GastoAnotaado-back.git
+[submodule "GastoAnotado-front"]
+	path = GastoAnotado-front
+	url = https://github.com/IsaelSousa/GastoAnotado-front.git
